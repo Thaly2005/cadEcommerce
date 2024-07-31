@@ -64,3 +64,23 @@ Retorna uma linha de resultado como uma matriz associativa.
 
 `mysqli_close`
 Fecha a conexão com o banco de dados.
+
+## Exemplos Auxiliares
+
+_Cadastro de Categoria_
+
+`categoria.php:` Formulário para cadastro de categorias.
+
+`insere-categoria.php:` Código PHP para inserção de uma nova categoria no banco de dados.
+
+_Cadastro de Marca_
+
+`marca.php:` Formulário para cadastro de marcas.
+
+`insere-marca.php:` Código PHP para inserção de uma nova marca no banco de dados.
+
+_Cadastro de Produto_
+
+`produtos.php:` Formulário para cadastro de produtos.
+
+`insere-produto.php:` Código PHP para inserção de um novo produto no banco de dados.
