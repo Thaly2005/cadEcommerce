@@ -88,3 +88,7 @@ _Cadastro de Produto_
 ## Comentários no Código
 
 Todos os arquivos PHP neste projeto contêm comentários explicando as funcionalidades implementadas. Esses comentários ajudam na compreensão do fluxo do código e na manutenção futura.
+
+## Referências
+
+Este projeto foi baseado no material e aulas disponibilizado pelo professor Leonardo Rocha.
