@@ -9,6 +9,18 @@ CADECOMMERCE é uma aplicação web para a gestão de um comércio eletrônico, 
 ## Introdução:
 Este projeto tem como objetivo fornecer uma base para o desenvolvimento de uma aplicação de e-commerce, demonstrando o uso de PHP para manipulação de dados e interação com um banco de dados MySQL. É uma excelente ferramenta de aprendizado para desenvolvedores iniciantes e intermediários que desejam entender como construir um sistema de compras online.
 
+## Funcionalidades:
+
+`Cadastro de Produtos:` Permite o cadastro de novos produtos, especificando nome, descrição, estoque, preço, categoria e marca.
+
+`Cadastro de Categorias:` Permite o cadastro de novas categorias de produtos.
+
+`Cadastro de Marcas:` Permite o cadastro de novas marcas de produtos.
+
+`Carrinho de Compras:` Permite adicionar, remover e visualizar produtos no carrinho de compras.
+
+`Visualização de Pedidos:` Exibe um resumo dos produtos adicionados ao carrinho, simulando um pedido.
+
 ## Tecnologias Utilizadas:
 PHP
 
