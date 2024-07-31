@@ -35,7 +35,7 @@ PHP
 
 MySQL
 
-<img src="_img/css.png" width="30%">
+<img src="_img/msql.png" width="30%">
 
 HTML
 
