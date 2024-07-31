@@ -9,3 +9,9 @@ MySQL
 HTML
 CSS
 JavaScript (jQuery)
+
+## Estrutura do Projeto
+O projeto está organizado da seguinte forma:
+
+`Pasta controller`
+Esta pasta contém os arquivos responsáveis pelo controle das operações do carrinho e dos produtos.
