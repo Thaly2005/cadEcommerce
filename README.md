@@ -31,13 +31,23 @@ Este projeto tem como objetivo fornecer uma base para o desenvolvimento de uma a
 ## Tecnologias Utilizadas:
 PHP
 
+<img src="_img/php.png" width="30%">
+
 MySQL
+
+<img src="_img/css.png" width="30%">
 
 HTML
 
+<img src="_img/html.png" width="30%">
+
 CSS
 
+<img src="_img/css.png" width="30%">
+
 JavaScript (jQuery)
+
+<img src="_img/js.png" width="30%">
 
 ## Estrutura do Projeto:
 O projeto está organizado da seguinte forma:
