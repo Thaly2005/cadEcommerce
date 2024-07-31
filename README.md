@@ -1,20 +1,20 @@
 [CADECOMMERCE](#cadecommerce)
 
-[Descrição:](#descri%C3%A7%C3%A3o)
+[Descrição](#descri%C3%A7%C3%A3o)
 
-[Introdução:](#introdu%C3%A7%C3%A3o)
+[Introdução](#introdu%C3%A7%C3%A3o)
 
-[Funcionalidades:](#funcionalidades)
+[Funcionalidades](#funcionalidades)
 
-[Tecnologias Utilizadas:](#tecnologias-utilizadas)
+[Tecnologias Utilizadas](#tecnologias-utilizadas)
 
-[Estrutura do Projeto:](#estrutura-do-projeto)
+[Estrutura do Projeto](#estrutura-do-projeto)
 
 [Métodos PHP Utilizados](#m%C3%A9todos-php-utilizados)
 
-[Exemplos Auxiliares:](#exemplos-auxiliares)
+[Exemplos Auxiliares](#exemplos-auxiliares)
 
-[Comentários no Código:](#coment%C3%A1rios-no-c%C3%B3digo)
+[Comentários no Código](#coment%C3%A1rios-no-c%C3%B3digo)
 
 [Fontes Consultadas](#fontes-consultadas)
 
