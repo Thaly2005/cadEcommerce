@@ -128,6 +128,9 @@ _Cadastro de Produto_
 
 Todos os arquivos PHP neste projeto contêm comentários explicando as funcionalidades implementadas. Esses comentários ajudam na compreensão do fluxo do código e na manutenção futura.
 
-## Referências:
+## Fontes Consultadas:
 
-Este projeto foi baseado no material e aulas disponibilizado pelo professor Leonardo Rocha.
+[alura](https://www.alura.com.br/artigos/escrever-bom-readme?utm_term=&utm_campaign=&utm_source=adwords&utm_medium=ppc&hsa_acc=7964138385&hsa_cam=20946398532&hsa_grp=153091871930&hsa_ad=688089973825&hsa_src=g&hsa_tgt=dsa-2258482177123&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=Cj0KCQjwncWvBhD_ARIsAEb2HW8ijk7NVhpuiVanaYEGFFOvZkBpjlnMcjF5Wcw-slwIVdYTzACJOG4aAiywEALw_wcB).      
+[Documentação PHP](https://www.php.net/manual/pt_BR/).
+[Documentação MySQL](https://dev.mysql.com/doc/).
+[jQuery Documentation](https://jquery.com/).
