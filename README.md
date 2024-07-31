@@ -1,3 +1,23 @@
+[CADECOMMERCE]
+
+[Descrição:]
+
+[Introdução:]
+
+[Funcionalidades:]
+
+[Tecnologias Utilizadas:]
+
+[Estrutura do Projeto:]
+
+[Métodos PHP Utilizados]
+
+[Exemplos Auxiliares:]
+
+[Fontes Consultadas]
+
+[Autor]
+
 # CADECOMMERCE
 
 CADECOMMERCE é um sistema de e-commerce simples desenvolvido em PHP. Este repositório contém todos os arquivos necessários para a criação de um carrinho de compras, cadastro de produtos, 
@@ -90,7 +110,7 @@ Esta pasta contém os arquivos principais do sistema.
 
 ⊳ produtos.php
 
-## Métodos PHP Utilizados
+## Métodos PHP Utilizados:
 
 `mysqli_connect`
 Estabelece uma conexão com um servidor MySQL.
