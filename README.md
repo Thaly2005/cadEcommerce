@@ -84,3 +84,7 @@ _Cadastro de Produto_
 `produtos.php:` Formulário para cadastro de produtos.
 
 `insere-produto.php:` Código PHP para inserção de um novo produto no banco de dados.
+
+## Comentários no Código
+
+Todos os arquivos PHP neste projeto contêm comentários explicando as funcionalidades implementadas. Esses comentários ajudam na compreensão do fluxo do código e na manutenção futura.
