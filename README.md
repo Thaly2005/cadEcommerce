@@ -3,6 +3,13 @@
 CADECOMMERCE é um sistema de e-commerce simples desenvolvido em PHP. Este repositório contém todos os arquivos necessários para a criação de um carrinho de compras, cadastro de produtos, 
 categorias e marcas, e a visualização de pedidos.
 
+<img src="_img/produtos.png" width="30%">
+
+<img src="_img/banco de dados.png" width="30%">
+
+<img src="_img/cadastro.png" width="30%">
+
+
 ## Descrição:
 CADECOMMERCE é uma aplicação web para a gestão de um comércio eletrônico, permitindo a administração de produtos, categorias e marcas, bem como a simulação de compras através de um carrinho de compras. A aplicação foi desenvolvida utilizando PHP e MySQL, com uma interface simples em HTML e CSS.
 
