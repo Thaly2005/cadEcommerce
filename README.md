@@ -126,6 +126,12 @@ Retorna uma linha de resultado como uma matriz associativa.
 `mysqli_close`
 Fecha a conexão com o banco de dados.
 
+`mysqli_insert_id`
+É uma função que retorna o ID gerado automaticamente para uma coluna AUTO_INCREMENT pela última consulta INSERT realizada na conexão especificada.
+
+`mysqli_connect_error`
+É utilizado para verificar se houve algum erro ao tentar estabelecer uma conexão com o banco de dados MySQL.
+
 ## Exemplos Auxiliares:
 
 _Cadastro de Categoria_
